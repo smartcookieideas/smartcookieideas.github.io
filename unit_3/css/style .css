@@ -1,13 +1,15 @@
 body{
-	text-align: center;
-	background-image: url("https://unsplash.com/photos/r7tuuJ7DFPI");
+	background-image: url("https://unsplash.com/photos/r7tuuJ7DFPI.jpg");
 	background-size: cover;
-	color:#fff;
+	background-repeat: no-repeat;
+	color:#000;
+	text-align: center;
 	font-family:'Roboto', sans-serif; font-weight: 250;
 }
-h1{
+p,h1, a{
    font-size: 80px;
    font-family: 'Roboto', sans-serif; 
+   color: #FFF;
 }
 hr{
 	width: 300px;
