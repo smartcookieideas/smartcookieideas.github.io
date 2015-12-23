@@ -1,8 +1,17 @@
 body{
 	text-align: center;
-	background-color: #000;
+	background-color: url(https://unsplash.com/photos/r7tuuJ7DFPI);
 	background-size: cover;
 	color:#fff;
-	font-family:'Roboto', sans-serif; font-weight: 300;
+	font-family:'Roboto', sans-serif; font-weight: 450;
 }
-
+h1{
+   font-size: 80px;
+   font-family: 'Roboto', sans-serif; 
+}
+hr{
+	width: 300px;
+}
+.about{
+	text-align: center;
+}
