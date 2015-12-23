@@ -1,11 +1,10 @@
 body{
-	background-color: #FFF;
 	background-color: url ("https://images.unsplash.com/uploads/1412191686520a755bf47/e30161f2?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=e302dd2c58c854034f38f1666d54a2c2");
-	background-size: cover;
+	background-size: ;
 	font-family:'Great Vibes', sans-serif; font-weight: 150;
-	text-align: 
+	text-align: center;
 }
-h1, p,{
+h1, p, {
 	color: #000;
 	margin-top: 50px;
 	margin-bottom: 75px;
