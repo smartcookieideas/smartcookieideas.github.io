@@ -3,7 +3,7 @@ body{
 	text-align: center;
 	font-family:'Great Vibes', sans-serif; font-weight: 150;
 }
-h1, p,{
+h1, p, a{
 	color: #000;
 	margin-top: 50px;
 	margin-bottom: 75px;
