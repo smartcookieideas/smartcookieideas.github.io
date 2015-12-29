@@ -1,8 +1,9 @@
 body{
-	background-color: url("https://images.unsplash.com/uploads/1412191686520a755bf47/e30161f2?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=e302dd2c58c854034f38f1666d54a2c2");
+	background: url("");
 	background-size: cover;
 	background-color: #000;
 	font-family:'Great Vibes', sans-serif; 
+	color: #FFF;
 	font-weight: normal;
 	text-align: center;
 }
@@ -17,7 +18,7 @@ input {
 
 a{
 	color: #FFF;
-	font-size: .5em;
+	font-size: 2em;
 }
 
 hr{
