@@ -4,14 +4,14 @@ body{
 	background-color: #000;
 	color: #60625e;
 	font-family:'Great Vibes', sans-serif; 
-	font-size: 1.0em;
+	font-size: 1.5em;
 	font-weight: normal;
 	text-align: center;
 }
 p{
 	color: #60625e;
 	font-family: 'ProximaNova-Light', Helvetica, Arial, sans-serif;
-	font-size: 1em;
+	font-size: .5em;
 	font-weight: normal;
 	text-align: center;
 	padding: 1px;
@@ -19,7 +19,7 @@ p{
 a{
 	color: #60625e;
 	font-family: Helvetica, sans-serif;
-	font-size: 1em;
+	font-size: .5em;
 	text-align: center;
 }
 .nav a { text-decoration:none}
