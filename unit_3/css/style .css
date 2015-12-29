@@ -23,11 +23,13 @@ p{
 	text-align: center;
 	padding: 1px;
 }
-a{
+nav{
 	color: #60625e;
 	font-family: Helvetica, sans-serif;
 	font-size: 1em;
 	text-align: center;
 	text-decoration: none;
 }
-
+.main{
+	max-width: 500px;
+}
