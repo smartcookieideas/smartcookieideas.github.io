@@ -9,7 +9,7 @@ body{
 	text-align: center;
 }
 p{
-	color: #fff;
+	color: #60625e;
 	font-family: 'ProximaNova-Light', Helvetica, Arial, sans-serif;
 	font-size: .5em;
 	font-weight: normal;
@@ -18,11 +18,9 @@ p{
 	padding: 2px;
 }
 a{
-	color: #000;
+	color: #60625e;
 	font-family: Helvetica, sans-serif;
 	font-size: 1em;
 	text-align: center;
 }
-hr{
-	width: 800px;
-}
+
