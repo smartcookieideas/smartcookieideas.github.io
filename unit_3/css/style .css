@@ -1,9 +1,9 @@
 body{
-	background: url("");
+	background: url("http://imgur.com/JmjdS7k");
 	background-size: cover;
 	background-color: #000;
+	color: #fff;
 	font-family:'Great Vibes', sans-serif; 
-	color: #FFF;
 	font-weight: normal;
 	text-align: center;
 }
@@ -15,16 +15,16 @@ input {
 	text-align: center;
 }
 p{
-	color: #FFF;
+	color: #fff;
 	font-family: 'ProximaNova-Light', Helvetica, Arial, sans-serif;
-	font-size: 1.2em;
+	font-size: 1.0em;
 	font font-weight: normal;
 	text-align: center;
 	max-width: 500px;
 	padding: 2px;
 }
 a{
-	color: #FFF;
+	color: #fff;
 	font-family: cursive;
 	font-size: 1em;
 	text-align: center;
