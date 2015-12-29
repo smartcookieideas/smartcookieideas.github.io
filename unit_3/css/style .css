@@ -8,6 +8,14 @@ body{
 	font-weight: normal;
 	text-align: center;
 }
+div#fixedheader {
+	position: fixed;
+	top: 0px;
+	width: 100%;
+	color: #000;
+	background: #fff;
+	padding: 20px;
+}
 h1{
 	color: #60625e;
 	font-family: cursive, sans-serif; 
