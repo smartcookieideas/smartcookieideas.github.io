@@ -15,9 +15,13 @@ input {
 	text-align: center;
 }
 p{
-	font-family: 'ProximaNova-Light', Helvetica, Arial, sans-serif;
 	color: #FFF;
-	padding: 0px;
+	font-family: 'ProximaNova-Light', Helvetica, Arial, sans-serif;
+	font-size: 2em;
+	font font-weight: normal;
+	text-align: center;
+	max-width: 500px;
+	padding: 1px;
 }
 a{
 	color: #FFF;
