@@ -11,7 +11,7 @@ body{
 p{
 	color: #60625e;
 	font-family: 'ProximaNova-Light', Helvetica, Arial, sans-serif;
-	font-size: .8em;
+	font-size: 1em;
 	font-weight: normal;
 	text-align: center;
 	padding: 1px;
@@ -19,7 +19,7 @@ p{
 a{
 	color: #60625e;
 	font-family: Helvetica, sans-serif;
-	font-size: .5em;
+	font-size: 1em;
 	text-align: center;
 }
 .nav a { text-decoration:none}
