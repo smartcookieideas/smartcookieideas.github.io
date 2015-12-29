@@ -2,11 +2,16 @@ body{
 	background: url("http://i.imgur.com/JmjdS7k.jpg");
 	background-size: cover;
 	background-color: #000;
+	color: #60625e;
+	font-family:'Great Vibes', sans-serif; 
+	font-size: 2em;
+	font-weight: normal;
+	text-align: center;
 }
 h1{
 	color: #60625e;
 	font-family:'Great Vibes', sans-serif; 
-	font-size: 1.5em;
+	font-size: 2em;
 	font-weight: normal;
 	text-align: center;
 }
@@ -23,5 +28,6 @@ a{
 	font-family: Helvetica, sans-serif;
 	font-size: 1em;
 	text-align: center;
+	text-decoration: none;
 }
-.nav a { text-decoration:none}
+
