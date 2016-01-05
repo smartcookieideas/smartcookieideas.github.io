@@ -1,8 +1,6 @@
 body{
-	background: url("http://i.imgur.com/JmjdS7k.jpg");
-	background-size: cover;
-	background-color: #000;
-	color: #60625e;
+	background-color: #60625e;
+	color: #fff;
 	font-family:'Great Vibes', sans-serif; 
 	font-size: 10pt;
 	line-height: 190%;
@@ -11,9 +9,22 @@ body{
 	font-weight: normal;
 	text-align: center;
 }
+h1{
+	float: center;
+}
+nav{
+	padding-top: 10px;
+}
+main img{
+	width: 800px;
+}
+main {
+	clear: both;
+}
 a {
 	text-decoration: none;
-	color: #60625e; 
+	color: #fff; 
+	margin:0 10px;
 }
 .header {
 	text-align: center;
