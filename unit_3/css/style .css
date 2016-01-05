@@ -1,7 +1,7 @@
 body{
 	background-color: #60625e;
 	color: #fff;
-	font-family:'Great Vibes', sans-serif; 
+	font-family:'Popsies Regular', sans-serif; 
 	font-size: 10pt;
 	line-height: 190%;
 	margin: 0;
@@ -11,49 +11,31 @@ body{
 }
 h1{
 	float: center;
+	line-height: 20px;
 }
 nav{
-	padding-top: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
 main img{
-	width: 800px;
+	width: 700px;
 }
-main {
+main{
 	clear: both;
 }
-a {
+a{
 	text-decoration: none;
 	color: #fff; 
 	margin:0 10px;
 }
-.header {
+.header{
 	text-align: center;
 	position: fixed;
 	top: 0;
 	z-index: 999;
 	width: 100%;	
 }
-.custombackground {
-	height: 25px;
-	width: 100%;
-}
-.menubg {
-	width: 100%;
-	padding:5px 0;
-	background-color: #fff;
-	float: left;
-}
-.menu {
-	max-width: 600px;
-	width: 100%;
-	margin: 0 auto;
-}
-.content {
-	margin: 120px 20px 0 20px;
-	padding-top: 20px;
-	border-top: 5px; 
-}
-.content p {
+.content p{
 	margin-bottom: 25px;
 }
 
