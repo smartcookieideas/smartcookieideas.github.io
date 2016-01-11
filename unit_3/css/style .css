@@ -13,9 +13,11 @@ nav{
 }
 main{
 	clear: both;
+	margin:2em auto 0;
+	width:75em;
 }
 main img{
-	width: 700px;
+	width: 100%;
 }
 nav a{
 	text-decoration: none;
@@ -25,6 +27,7 @@ nav a{
 	padding:1em;
 }
 header{
+	background-color: #60625e;
 	position: fixed;
 	top: 0;
 	z-index: 1;
