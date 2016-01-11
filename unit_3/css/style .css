@@ -1,39 +1,38 @@
+* { margin:0; padding:0; box-sizing:border-box; }
 body{
 	background-color: #60625e;
 	color: #fff;
-	font-family:'Popsies Regular', sans-serif; 
+	font-family:helvetica, arial, sans-serif; 
 	font-size: 10pt;
-	line-height: 190%;
-	margin: 0;
-	padding: 0;
-	font-weight: normal;
-	text-align: center;
-}
-h1{
-	float: center;
-	line-height: 20px;
+	font-weight: 400;
 }
 nav{
+	float:right;
 	padding-top: 5px;
 	padding-bottom: 5px;
-}
-main img{
-	width: 700px;
 }
 main{
 	clear: both;
 }
-a{
-	text-decoration: none;
-	color: #fff; 
-	margin:0 10px;
+main img{
+	width: 700px;
 }
-.header{
-	text-align: center;
+nav a{
+	text-decoration: none;
+	color: #fff;
+	display:inline-block;
+	margin:0 10px;
+	padding:1em;
+}
+header{
 	position: fixed;
 	top: 0;
-	z-index: 999;
+	z-index: 1;
 	width: 100%;	
+}
+h1{
+	font-family:'Popsies Regular', sans-serif;
+	float: left;
 }
 .content p{
 	margin-bottom: 25px;
