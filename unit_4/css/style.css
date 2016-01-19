@@ -1,9 +1,11 @@
 @import url(https://fonts.googleapis.com/css?family=Pacifico);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro);
+
 * { margin:0; padding:0; box-sizing:border-box; }
 body{
 	background-color: #60625e;
 	color: #fff;
-	font-family:helvetica, arial, sans-serif; 
+	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 10pt;
 	font-weight: 400;
 }
