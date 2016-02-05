@@ -1,3 +1,5 @@
+* { margin: 0; padding: 0;}
+
 header {
 	background-color: #FFED74;
 	border: 1px black solid;
@@ -57,4 +59,8 @@ footer {
 	 content: "";
 	 clear: both;
 	 height: 0;
+}
+
+#sunset {
+	width: 50%;
 }
